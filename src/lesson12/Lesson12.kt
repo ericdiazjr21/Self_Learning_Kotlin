@@ -1,4 +1,4 @@
-package Lesson12
+package lesson12
 
 fun main() {
     /**
